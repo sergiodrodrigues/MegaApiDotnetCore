@@ -76,13 +76,13 @@
   </tr>
 </table>
 
+
 ## Key Technologies
 
-<p align="center">
-  - <b>Data Management:</b> Using Entity Framework Core to make working with the database easier.<br />
-  - <b>API Design: </b> Creating RESTful APIs for clear and efficient communication. <br />
-  - <b>Flexible Architecture: </b>Using Dependency Injection to make code easier to test and maintain. <br />
-</p>
+- <b>Data Management:</b> Using Entity Framework Core to make working with the database easier.<br />
+- <b>API Design: </b> Creating RESTful APIs for clear and efficient communication. <br />
+- <b>Flexible Architecture: </b>Using Dependency Injection to make code easier to test and maintain. <br />
+ 
 
 ## Dependencies
 
