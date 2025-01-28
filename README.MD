@@ -1,9 +1,10 @@
 <h1 align="center">
   <br />
   <img
-    src="./_docs/assets/icon.png"
+    src="./_docs/assets/megam.png"
     alt="Mega Man Robots API"
-    width="150"
+    width="500"
+    height="324"
   />
   <br />
   <b>Mega Man Robots API</b>
@@ -29,15 +30,12 @@
 </h1>
 
 <p align="center">
-  This .NET Core API is designed to serve JSON formatted data about bosses from
-  the Mega Man series. It is a backend service built with .NET Core 3.1 and
-  various modern dependencies for data management and API response handling.
+  This .NET Core API provides JSON-formatted data about bosses from the Mega Man series. It serves as a backend service, built with .NET Core 3.1 and leveraging modern dependencies for efficient data management and API response handling.
   <br />
 </p>
 
 <p align="center">
-  Developed with Entity Framework Core and other modern .NET technologies, this
-  project aims to provide a robust API for accessing Mega Man robot data.
+  This project is built upon Entity Framework Core and other modern .NET technologies to deliver a robust and efficient API for accessing Mega Man robot data.
   <br />
 </p>
 
@@ -71,7 +69,14 @@
   </tr>
 </table>
 
-## Techniques Used
+## Features
+
+- Provides data for all robots from the Mega Man series
+- Data is returned in JSON format
+- Easy to use API endpoints
+- Built with.NET Core 3.1 for modern performance and reliability
+
+## Key Technologies
 
 <p align="center">
   - <b>Entity Framework Core:</b> ORM for data management.<br />
@@ -127,6 +132,11 @@
     </td>
   </tr>
 </table>
+
+## Getting Started
+
+To use the API, you can simply make a request to the desired endpoint. For example, to get a list of all robots, you can make a GET request to `/api/v1/robots`.
+
 
 ## :gear: Arch
 
