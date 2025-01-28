@@ -44,6 +44,13 @@
   <img src="./_docs/assets/carbon.png" />
 </p>
 
+## Features
+
+- Provides data for all robots from the Mega Man series
+- Data is returned in JSON format
+- Easy to use API endpoints
+- Built with.NET Core 3.1 for modern performance and reliability
+
 ## API Endpoints
 
 <table align="center">
@@ -69,21 +76,12 @@
   </tr>
 </table>
 
-## Features
-
-- Provides data for all robots from the Mega Man series
-- Data is returned in JSON format
-- Easy to use API endpoints
-- Built with.NET Core 3.1 for modern performance and reliability
-
 ## Key Technologies
 
 <p align="center">
-  - <b>Entity Framework Core:</b> ORM for data management.<br />
-  - <b>RESTful API Design:</b> Ensures clear and effective communication
-  endpoints.<br />
-  - <b>Dependency Injection:</b> Used throughout to promote loose coupling and
-  enhanced testability.<br />
+  - <b>Data Management:</b> Using Entity Framework Core to make working with the database easier.<br />
+  - <b>API Design: </b> Creating RESTful APIs for clear and efficient communication. <br />
+  - <b>Flexible Architecture: </b>Using Dependency Injection to make code easier to test and maintain. <br />
 </p>
 
 ## Dependencies
